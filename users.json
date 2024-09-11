@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Carter",
+    "last_name": "Stailey",
+    "email": "cstailey0@ucoz.com",
+    "gender": "Male",
+    "ip_address": "138.253.61.158"
+  },
+  {
+    "id": 2,
+    "first_name": "Allen",
+    "last_name": "Olorenshaw",
+    "email": "aolorenshaw1@prlog.org",
+    "gender": "Male",
+    "ip_address": "185.71.111.163"
+  },
+  {
+    "id": 3,
+    "first_name": "Umberto",
+    "last_name": "Camili",
+    "email": "ucamili2@soup.io",
+    "gender": "Male",
+    "ip_address": "130.102.97.40"
+  },
+  {
+    "id": 4,
+    "first_name": "Kacey",
+    "last_name": "Lamps",
+    "email": "klamps3@dailymotion.com",
+    "gender": "Female",
+    "ip_address": "223.132.255.243"
+  },
+  {
+    "id": 5,
+    "first_name": "Cherri",
+    "last_name": "Collerd",
+    "email": "ccollerd4@vimeo.com",
+    "gender": "Female",
+    "ip_address": "163.20.158.16"
+  },
+  {
+    "id": 6,
+    "first_name": "Casey",
+    "last_name": "Fader",
+    "email": "cfader5@stanford.edu",
+    "gender": "Male",
+    "ip_address": "109.89.46.171"
+  },
+  {
+    "id": 7,
+    "first_name": "Ogdan",
+    "last_name": "Ruffell",
+    "email": "oruffell6@weibo.com",
+    "gender": "Agender",
+    "ip_address": "16.73.174.133"
+  },
+  {
+    "id": 8,
+    "first_name": "Reeta",
+    "last_name": "Tathacott",
+    "email": "rtathacott7@twitpic.com",
+    "gender": "Female",
+    "ip_address": "188.238.192.126"
+  },
+  {
+    "id": 9,
+    "first_name": "Hana",
+    "last_name": "McAlester",
+    "email": "hmcalester8@pagesperso-orange.fr",
+    "gender": "Female",
+    "ip_address": "213.173.5.126"
+  },
+  {
+    "id": 10,
+    "first_name": "Neilla",
+    "last_name": "Veal",
+    "email": "nveal9@amazon.de",
+    "gender": "Female",
+    "ip_address": "102.143.202.97"
+  }
+]
